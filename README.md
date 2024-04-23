@@ -1,4 +1,4 @@
 # Todo-App
 Todo App using HTML, CSS and Javascript.
-Implemented CRUD operations
+Implemented CRUD operations.
 User friendly interface
