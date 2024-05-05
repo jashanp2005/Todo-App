@@ -1,4 +1,2 @@
-# Todo-App
-Todo App using HTML, CSS and Javascript.
-Implemented CRUD operations.
-User friendly interface
+# Task-Trove - Task Manager
+A web application to manage your daily tasks using React js and Tailwind CSS.
